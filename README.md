@@ -34,10 +34,10 @@ This webpage is generated via the command-line based on user inputs.
 User must watch demo video below to access web application.
 
 ## Demo
-[video demo link] 
+[video demo link](https://drive.google.com/file/d/15BwuYDEKBV-4HnhHrj22B593PDes89T_/view)
 
 ## Notes
-This challenge was particularly difficult, and I wasn't able to finish.
+This is a new repository because for some reason my previous repository got corrupted and I'm not sure what happened. I had over 20 commits. I wasn't able to get the functionality to work for a majority of this application.
 
 ## Contributions
 N/A
